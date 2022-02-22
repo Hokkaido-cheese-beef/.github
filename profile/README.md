@@ -19,6 +19,8 @@
     - [Twitter]()
     - [Github](https://github.com/zekuta-x)
 
+# Philosophy
+- [活動理念](https://github.com/Hokkaido-cheese-beef/.github/blob/main/philosophy.md)
 
 # Activities
 - 2021/12　所属大学の学生を対象としたハッカソンの企画・運営  
