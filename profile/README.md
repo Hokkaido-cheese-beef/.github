@@ -1,3 +1,6 @@
+![hcb-logo](https://user-images.githubusercontent.com/45535345/155833011-e266b446-c371-4d42-b929-92fabc7d948b.jpeg)
+# We are HCB.
+
 # About us
 ### Member
 - 木村 圭汰
